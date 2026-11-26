@@ -4,6 +4,7 @@ LunchKit is a web-based food ordering platform developed for MSU-IIT students an
 The project aims to make campus food ordering more convenient while providing participating food vendors with a platform to manage their stores and orders.
 
 **Project Type:** Group Project consist of 4 students from the Computer Science Department
+
 **Development**: Collaborative Development
 
 ## Features
